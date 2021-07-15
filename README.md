@@ -20,7 +20,7 @@
 </p>
 <p align='center'>
     <a href="https://wakatime.com/@nakama3942">
-        <img height=150 src="https://github-readme-stats.vercel.app/api/wakatime?username=@nakama3942&theme=merko"/></a>
+        <img height=130 src="https://github-readme-stats.vercel.app/api/wakatime?username=@nakama3942&layout=compact&theme=merko"/></a>
 </p>
 
 ### Всем привет 👋
