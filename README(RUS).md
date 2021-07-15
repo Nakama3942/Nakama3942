@@ -23,24 +23,24 @@
         <img height=130 src="https://github-readme-stats.vercel.app/api/wakatime?username=@nakama3942&layout=compact&theme=merko"/></a>
 </p>
 
-### Hi there 👋
+### Всем привет 👋
 
-My name is Kalynovsky Valentin, call me Valik. Tell us about yourself:
+Меня зовут Калиновский Валентин, зовите Валик. Расскажу немного о себе:
 
-Was born in 2001. I first got acquainted with a computer at the age of 5, from the age of ten I began to independently study computer literacy (there was no Internet then, and in a small town it was not necessary then, so I had to learn from my mistakes). Python became my first language. I began to teach it back in January 2018 during the winter holidays, but I did not go far on it (I could not learn much), and then I returned back to school and had to abandon it for the next year and a half. In 2020, I entered the Central Ukrainian National Technical University with a degree in _Computer Engineering_. At the moment, I am actively studying C++ and the Qt framework.
+Родился в 2001 году. Впервые познакомился с компьютером ещё в 5 лет, с десяти лет стал самостоятельно изучать компьютерную грамотность (интернета тогда не было, да и в маленьком городе тогда это было не нужно, вот и приходилось учится на своих ошибках). Первым моим языком стал Python. Стал учить я его ещё в январе 2018 на зимних каникулах, однако далеко я не уехал на нём (много выучить не смог), а потом вернулся назад к учёбе и пришлось насовсем забросить на следующие полтора года. В 2020 году я поступил в Центральноукраинский Национальный Технический Университет по специальности "_Компьютерная инженерия_". На данный момент активно изучаю С++ и фреймворк Qt.
 
-More details can be found in Autobiography 🇷🇺 :
+Более подробно можно почитать в Автобиографии:
 
 <p align='center'>
     <a href="https://github.com/Nakama3942/Nakama3942/blob/main/AUTOBIOGRAPHY.md">
         <img height=50 src="https://img.shields.io/badge/-AUTOBIOGRAPHY-gold?&style=for-the-badge"/></a>
 </p>
 
-## ♟️ Hobbies
+## ♟️ Увлечения
 
-My main occupation is programming, however, in addition to this, I also once studied origami (12-16 years old), drew (10-12 years old, then sometimes I sometimes drew a little until I was 17) and play [chess ♟️](https://www.chess.com/member/nakama3942) (from childhood until now). Origami has developed thinking and memory, drawing has developed a creative eye, and chess is developing thinking and logic. All these skills come to me in programming.
+Основное моё занятие - программирование, однако, помимо этого я ещё когда-то занимался оригами (12-16 лет), рисовал (10-12 лет, потом я ещё иногда периодически немного рисовал до 17 лет) и играю в [шахматы ♟️](https://www.chess.com/member/nakama3942) (с детства до сих пор). Оригами развило мышление и память, рисование развило творческий взгляд, а шахматы развивают мышление и логику. Все эти навыки прихождаются мне в программировании.
 
-## 🧠 Skills
+## 🧠 Навыки
 
 <p align='center'>
     <img height=30 src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&logoWidth=30&style=for-the-badge"/>
@@ -49,7 +49,7 @@ My main occupation is programming, however, in addition to this, I also once stu
     <img height=30 src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&logoWidth=30&style=for-the-badge"/>
 </p>
 
-## 🛠️ Instruments
+## 🛠️ Инструменты
 
 <p align='center'>
     <img height=30 src="https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white&logoWidth=30&style=for-the-badge"/>
@@ -60,7 +60,7 @@ My main occupation is programming, however, in addition to this, I also once stu
     <img height=30 src="https://img.shields.io/badge/-LibreOffice-18A303?logo=libreoffice&logoColor=white&logoWidth=30&style=for-the-badge"/>
 </p>
 
-## 🖥️ Developing for
+## 🖥️ Разрабатываю для
 
 <p align='center'>
     <img height=30 src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&logoWidth=30&style=for-the-badge"/>
@@ -69,34 +69,34 @@ My main occupation is programming, however, in addition to this, I also once stu
     <img height=30 src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=black&logoWidth=30&style=for-the-badge"/>
 </p>
 
-## 🧾 Certificates
+## 🧾 Сертификаты
 
 [![certificates](https://img.shields.io/badge/All%20my-certificates-gold)](https://github.com/Nakama3942/Nakama3942/blob/main/CERTIFICATES.md)
 
-My main certificate:
+Основной мой сертификат:
 <p align='center'>
     <img height=400 src="https://github.com/Nakama3942/Nakama3942/blob/main/assets/cert-12201206-1051.png"/>
 </p>
 
-## ⚙️ My projects
+## ⚙️ Мои проекты
 
-I like to write standard programs like Notepad... Basically, now I'm working on my text editor. There are also several plans for another minor revision of two more of my programs - a utility calculator and a nickname generator. However, new projects from other spheres may appear in the near future. Maybe it will be a neural network, or maybe some kind of firmware for the controller...
+Мне нравится писать стандарные программы типа Блокнота... В принципе, сейчас я и работаю над своим текстовым редактором. Также есть несколько планов на ещё небольшую доработку ещё двух моих програм - комунального калькулятора и генератора ников. Однако всоре могут появится и новые проекты из других сфер. Может это будет нейронная сеть, а может и какая-то прошивка для контроллера...
 
 <p align='center'>
     <a href="https://github.com/Nakama3942/NotePad">
         <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=nakama3942&repo=NotePad&show_owner=true&theme=merko"/></a>
 </p>
 
-## 📚 Study
+## 📚 Учёба
 
-I plan to learn Python and a few more languages, but let's get back to reality. I am currently learning C++. I know that some programmers studied the language for 5 years or even more, and then switched to other languages, realizing that they did not know this language perfectly. I am ready to spend so much time and even more on this programming language, and I don’t know - I’ll exchange it for another, but that’s another story...
+В планах освоить Python и ещё несколько языков, но давайте вернёмся к реальности. Сейчас я изучаю С++. Я знаю, что некоторые программисты учили язык и по 5 лет и даже больше, ну а потом переходили на другие языки осознавая, что не владеют этим языком всовершенстве. Я готов потратить столько времени и даже больше на этот язык программирования, и я не знаю - променяю я его на другой, впрочем это уже другая история...
 
-In addition to C++, I also study the Qt framework in addition to C++. This is a great tool for writing GUI programs!
+Помимо С++ я изучаю ещё и фреймворк Qt в дополнение к С++. Это отличный инструмент для написания графических интерфейсов программ!
 
-## 👅 Speak
+## 👅 Речь
 
-My native languages: 🇷🇺 🇺🇦
+Мои родные языки: 🇷🇺 🇺🇦
 
-I'm studying: 🇯🇵
+Учу: 🇯🇵
 
-I hardly know 🇬🇧 and use a translator.
+🇬🇧 я почти не знаю и использую переводчик
