@@ -27,7 +27,7 @@
 
 My name is Kalynovsky Valentin, call me Valik. Tell us about yourself:
 
-Was born in 2001. I first got acquainted with a computer at the age of 5, from the age of ten I began to independently study computer literacy (there was no Internet then, and in a small town it was not necessary then, so I had to learn from my mistakes). Python became my first language. I began to teach it back in January 2018 during the winter holidays, but I did not go far on it (I could not learn much), and then I returned back to school and had to abandon it for the next year and a half. In 2020, I entered the Central Ukrainian National Technical University with a degree in _Computer Engineering_. At the moment, I am actively studying C++ and the Qt framework.
+Was born in 2001. I first got acquainted with a computer at the age of 5, from the age of ten I began to independently study computer literacy (there was no Internet then, and in a small town it was not necessary then, so I had to learn from my mistakes). Python became my first language. I began to learning it back in January 2018 during the winter holidays, but I did not go far on it (I could not learn much), and then I returned back to school and had to abandon it for the next year and a half. In 2020, I entered the Central Ukrainian National Technical University with a degree in _Computer Engineering_. At the moment, I am actively studying C++ and the Qt framework.
 
 More details can be found in Autobiography 🇷🇺 :
 
