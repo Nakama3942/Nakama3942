@@ -117,6 +117,6 @@ I want something new. I've been learning C++ for 2.5 years and now I'm switching
 
 My native languages: 🇺🇦
 
-I'm studying: 🇯🇵
+I understand 🇬🇧 enough
 
-I hardly know 🇬🇧 and use a translator.
+I'm studying: 🇯🇵
